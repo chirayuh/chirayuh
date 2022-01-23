@@ -1,3 +1,5 @@
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://chirayuh.io) -->
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 <h1 align="center">Hi 👋, I'm Chirayu H</h1>
 <h3 align="center">A passionate sofware developer from India</h3>
 
